@@ -1,0 +1,8 @@
+gymnasium[classic-control,box2d,mujoco]
+stable-baselines3
+torch
+numpy
+matplotlib
+tensorboard
+moviepy
+jupyter
